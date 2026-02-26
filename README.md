@@ -1,4 +1,5 @@
 📊 Snitch Fashion Sales Analysis Project
+
 🔹 Overview
 
 This project performs an end-to-end data analysis of a retail fashion sales dataset to uncover key business insights using Excel, SQL, Python, and Power BI.
